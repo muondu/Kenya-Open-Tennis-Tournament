@@ -16,9 +16,10 @@
             "tournaments_won":14
             },
         {
-                "name":"Kabum",
-                "age":7,
-                "tournaments_won":4
-                }
+            "name":"Kabum",
+            "age":7,
+            "tournaments_won":4
+            }
+        
     ]
 }
