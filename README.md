@@ -1,2 +1,2 @@
-# Kenya-Open-Tennis-Tournamen
-This is a json project
+# Kenya-Open-Tennis-Tournament
+This is a Kenyan Open Tennis Tournament made with JSON
